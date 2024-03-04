@@ -2,7 +2,7 @@
 <h1 align="center">Hello World, I'm Hithaishi</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="hithu coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="hithu coding" width="400" src="https://camo.githubusercontent.com/8d380f0f21eca6edaa9200abcccb8de8f60c804c4c20186e4e048e068d93697e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31312f39362f38392f31313936383964326638616535303035333530316166623431393065323366362e676966">
 
 - 🔭 I’m currently working on some cool stuff related to Enterprise Storage and Backup as a part of **Telstra's Cloud Group**
 
