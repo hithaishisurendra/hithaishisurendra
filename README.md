@@ -6,11 +6,12 @@
 
 🔭 I’m currently working on some cool stuff related to Enterprise Storage and Backup as a part of **Telstra's Cloud Group**
 
+📚 Constantly learning and growing. You can find my coding adventures, side projects, and learning journey right here on GitHub.
+
 📫 How to reach me: **hithaishisurendra@gmail.com**
 
 📄 Know about my experiences: [https://drive.google.com/drive/u/0/folders/172-zzTcL7-CMmuRGtHnTtzTfseaYzD_m](https://drive.google.com/drive/u/0/folders/172-zzTcL7-CMmuRGtHnTtzTfseaYzD_m)
 
-📚 Constantly learning and growing. You can find my coding adventures, side projects, and learning journey right here on GitHub.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
