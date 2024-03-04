@@ -6,6 +6,8 @@
 
 🔭 I’m currently working on some cool stuff related to Enterprise Storage and Backup as a part of **Telstra's Cloud Group**
 
+🎓 I graduated from RV College of Engineering with a strong foundation in software development, algorithms, and problem-solving.
+
 📚 Constantly learning and growing. You can find my coding adventures, side projects, and learning journey right here on GitHub.
 
 📫 How to reach me: **hithaishisurendra@gmail.com**
