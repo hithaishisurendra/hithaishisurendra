@@ -4,15 +4,17 @@
 
 <img align="right" alt="hithu coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
-🔭 I’m currently working on some cool stuff related to Enterprise Storage and Backup as a part of **Telstra's Cloud Group**
+I am currently pursuing a Master's degree in Computer Science from Arizona State University. My areas of interest are Machine Learning and Data Science.
 
-🎓 I graduated from RV College of Engineering with a strong foundation in software development, algorithms, and problem-solving.
+I was working on some cool stuff related to Enterprise Storage and Backup as a part of **Telstra's Cloud Group**
 
-📚 Constantly learning and growing. You can find my coding adventures, side projects, and learning journey right here on GitHub.
+I graduated from RV College of Engineering with a strong foundation in software development, algorithms, and problem-solving.
 
-📫 How to reach me: **hithaishisurendra@gmail.com**
+Constantly learning and growing. You can find my coding adventures, side projects, and learning journey right here on GitHub.
 
-📄 Know about my experiences: [https://drive.google.com/drive/u/0/folders/172-zzTcL7-CMmuRGtHnTtzTfseaYzD_m](https://drive.google.com/drive/u/0/folders/172-zzTcL7-CMmuRGtHnTtzTfseaYzD_m)
+How to reach me: **hsurendr@asu.edu**
+
+Know about my experiences: [https://drive.google.com/drive/u/0/folders/172-zzTcL7-CMmuRGtHnTtzTfseaYzD_m](https://drive.google.com/drive/u/0/folders/172-zzTcL7-CMmuRGtHnTtzTfseaYzD_m)
 
 
 <h3 align="left">Connect with me:</h3>
