@@ -4,15 +4,15 @@
 
 <img align="right" alt="hithu coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
-I am currently pursuing a Master's degree in Computer Science from Arizona State University. My areas of interest are Machine Learning and Data Science.
+I’m studying Computer Science at Arizona State University, where I’m learning how to design and build software that solves practical problems.
 
-I was working on some cool stuff related to Enterprise Storage and Backup as a part of **Telstra's Cloud Group**
+At Thropic Technology, I help design and launch fundraising games that make giving more engaging. I’m working on features like autograding and AI integration for quiz-based games, enabling real-time feedback and personalized player experiences.
 
-I graduated from RV College of Engineering with a strong foundation in software development, algorithms, and problem-solving.
+At Walnuted.ai, I’m improving an AI-based college chatbot by streamlining integration between the frontend and backend, setting up automated deployment pipelines, and creating a decision mapping tool that helps students explore their options more clearly.
 
-Constantly learning and growing. You can find my coding adventures, side projects, and learning journey right here on GitHub.
+Before graduate school, I worked at Telstra’s Cloud Group, where I built a messaging platform, automated large-scale backup workflows, and added monitoring tools to detect issues early.
 
-How to reach me: **hsurendr@asu.edu**
+Contact: hsurendr@asu.edu
 
 Know about my experiences: [https://drive.google.com/drive/u/0/folders/172-zzTcL7-CMmuRGtHnTtzTfseaYzD_m](https://drive.google.com/drive/u/0/folders/172-zzTcL7-CMmuRGtHnTtzTfseaYzD_m)
 
